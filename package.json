@@ -1,5 +1,5 @@
 {
-  "name": "ahj-dom-2",
+  "name": "ahj-dom-3",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -16,14 +16,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ADeoZ/ahj-dom-2.git"
+    "url": "git+https://github.com/ADeoZ/ahj-dom-3.git"
   },
   "author": "AlekseyDenisov",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ADeoZ/ahj-dom-2/issues"
+    "url": "https://github.com/ADeoZ/ahj-dom-3/issues"
   },
-  "homepage": "https://github.com/ADeoZ/ahj-dom-2#readme",
+  "homepage": "https://github.com/ADeoZ/ahj-dom-3#readme",
   "devDependencies": {
     "@babel/cli": "^7.8.4",
     "@babel/core": "^7.9.0",
